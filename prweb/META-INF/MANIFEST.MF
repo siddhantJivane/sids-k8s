@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: prweb
+sourceRevision: e3e7fada33d98ebd617caad00ffda6aca9390c52
+Implementation-Version: 8.24.0-52
+Pega-Build-Name: PRPC-8.24.0-52
+Built-By: root
+Pega-Codeset-Version: 08-24-01
+Specification-Vendor: Pegasystems
+Specification-Title: Pega Infinity Engine
+Pega-Build-Date: 2024-03-15 21.05 UTC
+Implementation-Vendor: Pegasystems
+Gradle-Version: 7.4.1
+GitBranch: release/8.24.0
+BuildURL: prpc-platform/job/release%252F8.24.0/52/
+Build-JDK: 1.8.0_242
+Pega-Codeset-Name: Pega-EngineCode
+Specification-Version: 8.24.0
+
